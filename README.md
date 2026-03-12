@@ -1,5 +1,4 @@
-Here are the **complete commands in English, step-by-step** to create an **S3 bucket and an EC2 instance using AWS CLI from Windows CMD**.
-
+S3 bucket and an EC2 instance using AWS CLI from Windows CMD.
 ---
 
 # 1. Check AWS CLI Installation
